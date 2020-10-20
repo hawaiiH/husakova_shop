@@ -1,0 +1,90 @@
+{
+  "menu": [
+    {
+      "title": "Паприка молотая",
+      "price": 10,
+      "url": "https://i2.rozetka.ua/goods/12012398/85480920_images_12012398496.jpg",
+      "category": "spices",
+      "id": 1
+    },
+    {
+      "title": "Перець чорний мелений",
+      "price": 15,
+      "url": "https://lh3.googleusercontent.com/proxy/-DmY1Tg5tUkygw8sC0t3oweEzqxWs3XsaVNTRVkRZBhieZB6a5e4IaPxlVcNWnJu2BoQIq-Jns2m0h_PYir04xBKDvqfFOlYaA2Da6HMJxITWB5RIGqxMmtyNDlKiQ",
+      "category": "spices",
+      "id": 2
+    },
+    {
+      "title": "Часник сушений хлопя",
+      "price": 20,
+      "url": "https://ireland.apollo.olxcdn.com/v1/files/h10ckkfimcvm-UA/image;s=1000x700",
+      "category": "spices",
+      "id": 3
+    },
+    {
+      "title": "Ніж кухонний",
+      "price": 30,
+      "url": "https://assets.bigcartel.com/product_images/226071784/Peters+Valley+blacksmithing+Nicholas-Rossi-1.jpg?auto=format&fit=max&h=1000&w=1000",
+      "category": "knives",
+      "id": 4
+    },
+    {
+      "title": "Черева свиняча",
+      "price": 45,
+      "url": "http://www.mauntex.ua/content/documents/1/11/image/5.jpg",
+      "category": "shell",
+      "id": 5
+    },
+    {
+      "title": "Ковбасні петлі",
+      "price": 7,
+      "url": "https://www.antes.ru/upload/resize_cache/iblock/049/654_476_0/0499366cdec9c2f3388f0ee7712c5325.jpg",
+      "category": "additional",
+      "id": 6
+    },
+    {
+      "title": "Паприка молотая",
+      "price": 12,
+      "url": "http://lavka-pripravka.com/wp-content/uploads/2015/12/Паприка-молотая.jpg",
+      "category": "spices",
+      "id": 7
+    },
+    {
+      "title": "Перець чорний",
+      "price": 10,
+      "url": "https://lavka-pripravka.com/wp-content/uploads/2015/12/%D0%9F%D0%B5%D1%80%D0%B5%D1%86-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BA.jpg",
+      "category": "spices",
+      "id": 8
+    },
+    {
+      "title": "Часник сушений хлопя",
+      "price": 20,
+      "url": "https://images.ua.prom.st/1229298630_w640_h640_1229298630.jpg",
+      "category": "spices",
+      "id": 9
+    },
+    {
+      "title": "Ніж кухонний",
+      "price": 35,
+      "url": "http://www.russian-bazaar.com/upload/content/ru/tn1_0_20247400_1521665848_img.png",
+      "category": "knives",
+      "id": 10
+    },
+    {
+      "title": "Черева бараняча",
+      "price": 50,
+      "url": "http://www.kupaty.com/upload/iblock/756/0d2d2a7a_d021_11e6_9952_fcf8aec2e41b_689c1460_28c3_11e7_9964_fcf8aec2e41b.jpg",
+      "category": "shell",
+      "id": 11
+    },
+    {
+      "title": "Ковбасні петлі",
+      "price": 4,
+      "url": "https://t-pluss.com/wp-content/uploads/2014/07/2_fzxZHpmO5k.jpg",
+      "category": "additional",
+      "id": 12
+    }
+  ],
+  "orders": [],
+  "callback": []
+}
