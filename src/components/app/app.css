@@ -315,17 +315,3 @@ ul > .catalog-item:hover .catalog-badge {
 .footer-soc > a:hover {
     opacity: 0.5;
 }
-
-/* .contacts-soc {
-    display: block;
-    margin: 0 auto;
-}
-
-.contacts-soc > a {
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-.contacts-soc > a:hover {
-    opacity: 0.5;
-} */
