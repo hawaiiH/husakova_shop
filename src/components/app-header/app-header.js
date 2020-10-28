@@ -1,11 +1,11 @@
 import React from 'react';
-import {Nav, Navbar} from 'react-bootstrap';
+import {Nav, Navbar, Badge} from 'react-bootstrap';
 import logo from './logo.png';
 import cartIcon from './shopping-cart.png';
 import {connect} from 'react-redux';
 import {Link} from 'react-router-dom';
 
-const AppHeader = ({totalPrice}) => {
+const AppHeader = ({totalPrice, items}) => {
     return(
         <>
             <Navbar collapseOnSelect expand="md" className="header-navbar">
@@ -37,9 +37,10 @@ const AppHeader = ({totalPrice}) => {
     )
 }
 
-const mapStateToProps = ({totalPrice}) => {
+const mapStateToProps = ({totalPrice, items}) => {
     return {
-        totalPrice
+        totalPrice,
+        items
     }
 };
 
